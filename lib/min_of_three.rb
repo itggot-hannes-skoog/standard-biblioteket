@@ -10,5 +10,3 @@ def min_of_three(num1, num2, num3)
     end
     return num3
 end
-
-puts min_of_three(7,43,23)
