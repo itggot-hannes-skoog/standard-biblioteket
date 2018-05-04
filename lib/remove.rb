@@ -5,7 +5,7 @@
 #
 # Examples
 #
-#   count("hallå ellehr", "h")
+#   remove("hallå ellehr", "h")
 #   # => "allå eller"
 #
 # Returns string with chars removed.
